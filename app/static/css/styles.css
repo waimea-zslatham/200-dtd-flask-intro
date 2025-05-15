@@ -1,0 +1,5 @@
+article#random {
+    font-size: 12rem;
+    text-align: center;
+    color: var(--pico-primary);
+}
